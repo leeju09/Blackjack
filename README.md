@@ -36,7 +36,7 @@ Blackjack is a comparing card game between one or more players and a dealer. The
 ## Screenshots
 
 ### Console Output
-*(Insert your console output screenshot here)*
+<img src="Blackjack_JuliaLee/Screenshot 2026-11-18 160034.png" alt="Terminal Output" width="400"/>
 
 ## Extra Features (Beyond the Rubric)
 
